@@ -1,0 +1,10 @@
+C:\cc6\hw8\FleetSim\FleetSim.Console\obj\Debug\FleetSim.Console.csprojAssemblyReference.cache
+C:\cc6\hw8\FleetSim\FleetSim.Console\obj\Debug\FleetSim.Console.csproj.CoreCompileInputs.cache
+C:\cc6\hw8\FleetSim\FleetSim.Console\bin\Debug\FleetSim.Console.exe.config
+C:\cc6\hw8\FleetSim\FleetSim.Console\bin\Debug\FleetSim.Console.exe
+C:\cc6\hw8\FleetSim\FleetSim.Console\bin\Debug\FleetSim.Console.pdb
+C:\cc6\hw8\FleetSim\FleetSim.Console\bin\Debug\FleetSim.Objects.dll
+C:\cc6\hw8\FleetSim\FleetSim.Console\bin\Debug\FleetSim.Objects.pdb
+C:\cc6\hw8\FleetSim\FleetSim.Console\obj\Debug\FleetSim.Console.csproj.CopyComplete
+C:\cc6\hw8\FleetSim\FleetSim.Console\obj\Debug\FleetSim.Console.exe
+C:\cc6\hw8\FleetSim\FleetSim.Console\obj\Debug\FleetSim.Console.pdb
